@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Aman Kumar</h1>
 <h3>A passionate Android Developer</h3>
 
-- 🔭 I’m currently working on **doodleblue Innovation**
+- 🔭 I’m currently working on **doodleblue Innovations**
 
 - 👯 I’m looking to collaborate on [BlurDialogFragment](https://github.com/amanzan/BlurDialogFragment)
 
