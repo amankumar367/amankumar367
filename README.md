@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Aman Kumar</h1>
-<h3>A passionate Android Developer</h3>
+<h3>A passionate Android Developer || Android Enthusiast || Open-Source Contributor</h3>
 
 - 🔭 I’m currently working on **doodleblue Innovations**
 
