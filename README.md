@@ -1,9 +1,9 @@
 <h1>Hi 👋, I'm Aman Kumar</h1>
 <h3>A passionate Android Developer || Android Enthusiast || Open-Source Contributor</h3>
 
-- 🔭 I’m currently working on **doodleblue Innovations**
+- 🔭 I’m currently working on **Byjus**
 
-- 👯 I’m looking to collaborate on [BlurDialogFragment](https://github.com/amanzan/BlurDialogFragment)
+<!--- - 👯 I’m looking to collaborate on [BlurDialogFragment](https://github.com/amanzan/BlurDialogFragment) -->
 
 - 📝 I regularly write articles on [https://amankumar.dev](https://amankumar.dev)
 
