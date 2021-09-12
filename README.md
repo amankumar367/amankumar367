@@ -28,11 +28,11 @@
 
 #### Tech Stack:
 
-[<img align="left" alt="aman | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />][website]
-[<img align="left" alt="aman | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][website]
-[<img align="left" alt="aman | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />][website]
-[<img align="left" alt="aman | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" />][website]
-[<img align="left" alt="aman | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][website]
+[<img align="left" alt="aman | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/android.svg" />][android]
+[<img align="left" alt="aman | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" />][kotlin]
+[<img align="left" alt="aman | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />][java]
+[<img align="left" alt="aman | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gradle.svg" />][gradle]
+[<img align="left" alt="aman | pub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />][git]
 
 
 [website]: http://amankumar.dev/
@@ -40,4 +40,8 @@
 [instagram]: https://www.instagram.com/i_m_amnk/
 [linkedin]: https://www.linkedin.com/in/aman-kumar-148004153/
 [stackoverflow]: https://stackoverflow.com/users/9633290/aman-kumar?tab=profile
-
+[android]: https://developer.android.com/
+[kotlin]: https://kotlinlang.org/
+[java]: https://www.java.com/en/
+[gradle]: https://gradle.org/
+[git]: https://git-scm.com/
