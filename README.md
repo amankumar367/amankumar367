@@ -9,6 +9,7 @@
 - 💬 &nbsp;&nbsp;  Ask me about **Android, Kotlin**
 - 📫  &nbsp;&nbsp; How to reach me **kumaraman367@gmail.com**
 
+<br />
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/amankumar367/amankumar367">
@@ -23,7 +24,6 @@
 [<img align="left" alt="aman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="aman | StackOverflow" height="22px"  src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" />][stackoverflow]
 
-<br />
 <br />
 
 #### Tech Stack:
