@@ -37,7 +37,7 @@
 
 [website]: http://amankumar.dev/
 [twitter]: https://twitter.com/i_m_amank/
-[instagram]: https://www.instagram.com/i_m_amnk/
+[instagram]: https://www.instagram.com/i_m_amank/
 [linkedin]: https://www.linkedin.com/in/aman-kumar-148004153/
 [stackoverflow]: https://stackoverflow.com/users/9633290/aman-kumar?tab=profile
 [android]: https://developer.android.com/
